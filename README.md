@@ -1,4 +1,4 @@
-文档：https://www.thisdot.co/blog/plugin-architecture-for-angular-libraries-using-dependency-injection/
+# 文档：https://www.thisdot.co/blog/plugin-architecture-for-angular-libraries-using-dependency-injection/
 
 
 
