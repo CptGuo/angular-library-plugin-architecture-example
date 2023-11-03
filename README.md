@@ -1,3 +1,7 @@
+文档：https://www.thisdot.co/blog/plugin-architecture-for-angular-libraries-using-dependency-injection/
+
+
+
 # PluginsArchitecture
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
